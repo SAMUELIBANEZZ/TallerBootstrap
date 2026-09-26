@@ -27,4 +27,5 @@ Al estar desarrollado puramente con HTML y enlaces CDN, no requiere instalación
 2. Usa directamente el link:
 
 ```
+https://samuelibanezz.github.io/TallerBootstrap/
 ```
